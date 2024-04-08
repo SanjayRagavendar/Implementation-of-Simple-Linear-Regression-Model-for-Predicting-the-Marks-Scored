@@ -73,19 +73,28 @@ print("RMSE= ",rmse)
 
 ## Output:
 ### Head
-![265497944-240b2352-15b4-43d4-a1e9-5bf7cff9c73c](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/c12f0ba7-7e54-49f8-bbab-d4798be56610)
+
+![307705140-77163267-9ac2-467b-803d-cbbb5d8682ae](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/291f6778-5468-43a2-a3fc-c0722297140c)
 
 ### Tail
-![265498034-74f38c0c-076a-4468-b7ec-beda04215aa7](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/3b4351f4-8ac0-4eaf-9b30-09ce33dcc5a0)
+![307705377-96c0a72b-a114-45ba-a43a-59e33a4b718e](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/e76ba7ca-ad5d-44df-942c-230f40d10835)
+
 
 ### X and Y values
-![265498293-93dc266d-8193-46b9-aacb-f235729cd7eb](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/24181ef0-f820-4628-83a9-6f38dd3f4a07)
+
+![307722226-bf70d1b6-dddb-492a-b1ae-5788a4050c7d](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/6d186ca8-be59-4cb1-8ba0-f7c11a33c6cc)
+
+![307722697-b725c8f6-a33d-4cd3-97c9-2f34b96115da](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/5dc0fea1-4a9c-43ae-af8a-ae590a765e8e)
 
 ### Prediction of X and Y
-![265498417-1c6dbe39-5ea4-4fad-9f86-4115bcb5f5b6](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/d516f109-5227-4fd1-9f6c-ae023db135a2)
+
+![307722795-2588d8af-ccd8-464c-adaf-eb18b67ba69f](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/fda853b7-d3b1-40dc-a2e0-1839d261f24a)
+
+![307722827-41e9e8e8-170c-489a-995a-1c79e3556202](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/26f927fa-a4a7-4027-9213-79095d705497)
 
 ### MSS,MSE and RMSE 
-![265498528-7bbe9578-3bc9-4420-8f78-1c84e39fe21f](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/1f372d2e-e4ae-4c7a-8926-5dc9ab3a8cdb)
+
+![307722905-da31d005-1efa-4c44-b33b-6908d4be9350](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/98286727-2d1f-4aa0-b785-3f32638b841d)
 
 ### Training Set
 ![265499664-8719ffc5-5bc7-4a8e-9002-42f8be22da89](https://github.com/SanjayRagavendar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/91368803/cd85f04a-85a0-4104-bad6-07cf03ab097f)
